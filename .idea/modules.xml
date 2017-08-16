@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springdocker.iml" filepath="$PROJECT_DIR$/.idea/modules/springdocker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springdocker_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springdocker_main.iml" group="springdocker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springdocker_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springdocker_test.iml" group="springdocker" />
+    </modules>
+  </component>
+</project>
